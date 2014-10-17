@@ -48,7 +48,7 @@ function add(firstName, lastName, email, phoneNumber) {
         email: email
     };
     }
-add("Dolly", "Harper", "d.harper@email.com", "500-25000-600");
+add("Shalim\-Ra", "Th\'Ink\-King", "lee.christopher.murray@gmail.com", "+1-876-359-9550");
 list();
 
 //CASH REGISTER                                       */
